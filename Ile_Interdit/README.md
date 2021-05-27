@@ -6,7 +6,7 @@ The purpose of this project is to apply software engineering and MVC architectur
 ![alt text](https://github.com/jeyan-m/School_Project/blob/master/Ile_Interdit/game.png)
 
 
-# Member of the group
+# Members of the group
 
 ```
 De Souza Albanio 
